@@ -1,0 +1,854 @@
+{
+  "remedies":[
+      {
+        "condition": "Nausea",
+        "herbs": [
+          "Lemon Juice",
+          "Lemon Grass"
+        ],
+        "remedy": "Use Lemon Juice and Lemon Grass to treat nausea. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Indigestion",
+        "herbs": [
+          "Moringa",
+          "Brahmi",
+          "Beetroot"
+        ],
+        "remedy": "Use Moringa and Brahmi and Beetroot to treat indigestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sciatica",
+        "herbs": [
+          "Jaggery",
+          "Rosemary"
+        ],
+        "remedy": "Use Jaggery and Rosemary to treat sciatica. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Hair Fall",
+        "herbs": [
+          "Ajwain",
+          "Hing"
+        ],
+        "remedy": "Use Ajwain and Hing to treat hair fall. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Arthritis",
+        "herbs": [
+          "Bhringraj",
+          "Ashwagandha",
+          "Rosemary"
+        ],
+        "remedy": "Use Bhringraj and Ashwagandha and Rosemary to treat arthritis. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Cramps",
+        "herbs": [
+          "Brahmi",
+          "Hibiscus"
+        ],
+        "remedy": "Use Brahmi and Hibiscus to treat cramps. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Nausea",
+        "herbs": [
+          "Mulethi",
+          "Beetroot",
+          "Lemon Grass"
+        ],
+        "remedy": "Use Mulethi and Beetroot and Lemon Grass to treat nausea. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "PMS",
+        "herbs": [
+          "Beetroot",
+          "Bitter Gourd"
+        ],
+        "remedy": "Use Beetroot and Bitter Gourd to treat pms. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sore Eyes",
+        "herbs": [
+          "Curry Leaves",
+          "Arjuna Bark",
+          "Beetroot"
+        ],
+        "remedy": "Use Curry Leaves and Arjuna Bark and Beetroot to treat sore eyes. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Cramps",
+        "herbs": [
+          "Triphala",
+          "Dandelion",
+          "Ratanjot"
+        ],
+        "remedy": "Use Triphala and Dandelion and Ratanjot to treat cramps. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sciatica",
+        "herbs": [
+          "Fennel",
+          "Ajwain"
+        ],
+        "remedy": "Use Fennel and Ajwain to treat sciatica. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Liver Detox",
+        "herbs": [
+          "Basil",
+          "Fennel"
+        ],
+        "remedy": "Use Basil and Fennel to treat liver detox. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Liver Detox",
+        "herbs": [
+          "Chili",
+          "Isabgol"
+        ],
+        "remedy": "Use Chili and Isabgol to treat liver detox. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Fatigue",
+        "herbs": [
+          "Beetroot",
+          "Rosemary",
+          "Ashwagandha"
+        ],
+        "remedy": "Use Beetroot and Rosemary and Ashwagandha to treat fatigue. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Kidney Stones",
+        "herbs": [
+          "Ajwain",
+          "Jaggery"
+        ],
+        "remedy": "Use Ajwain and Jaggery to treat kidney stones. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Cough",
+        "herbs": [
+          "Ginger",
+          "Bitter Gourd"
+        ],
+        "remedy": "Use Ginger and Bitter Gourd to treat cough. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stress",
+        "herbs": [
+          "Lemon Grass",
+          "Lemon Balm"
+        ],
+        "remedy": "Use Lemon Grass and Lemon Balm to treat stress. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Toothache",
+        "herbs": [
+          "Turmeric",
+          "Basil",
+          "Giloy"
+        ],
+        "remedy": "Use Turmeric and Basil and Giloy to treat toothache. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Acidity",
+        "herbs": [
+          "Clove",
+          "Ratanjot",
+          "Honey"
+        ],
+        "remedy": "Use Clove and Ratanjot and Honey to treat acidity. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Headache",
+        "herbs": [
+          "Ajwain",
+          "Chicory"
+        ],
+        "remedy": "Use Ajwain and Chicory to treat headache. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Bloating",
+        "herbs": [
+          "Aloe Vera",
+          "Carom Seeds",
+          "Brahmi"
+        ],
+        "remedy": "Use Aloe Vera and Carom Seeds and Brahmi to treat bloating. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Diabetes",
+        "herbs": [
+          "Peppermint",
+          "Bitter Gourd"
+        ],
+        "remedy": "Use Peppermint and Bitter Gourd to treat diabetes. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Acne",
+        "herbs": [
+          "Moringa",
+          "Basil",
+          "Amla"
+        ],
+        "remedy": "Use Moringa and Basil and Amla to treat acne. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Kidney Stones",
+        "herbs": [
+          "Lemon Juice",
+          "Mulethi",
+          "Ratanjot"
+        ],
+        "remedy": "Use Lemon Juice and Mulethi and Ratanjot to treat kidney stones. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stomach Pain",
+        "herbs": [
+          "Peppermint",
+          "Hibiscus",
+          "Ashwagandha"
+        ],
+        "remedy": "Use Peppermint and Hibiscus and Ashwagandha to treat stomach pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sore Feet",
+        "herbs": [
+          "Sesame Seeds",
+          "Carom Seeds",
+          "Hibiscus"
+        ],
+        "remedy": "Use Sesame Seeds and Carom Seeds and Hibiscus to treat sore feet. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Dandruff",
+        "herbs": [
+          "Basil",
+          "Brahmi",
+          "Bitter Gourd"
+        ],
+        "remedy": "Use Basil and Brahmi and Bitter Gourd to treat dandruff. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Chronic Cold",
+        "herbs": [
+          "Ashwagandha",
+          "Cinnamon",
+          "Lemon Juice"
+        ],
+        "remedy": "Use Ashwagandha and Cinnamon and Lemon Juice to treat chronic cold. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Swelling",
+        "herbs": [
+          "Mulethi",
+          "Fennel"
+        ],
+        "remedy": "Use Mulethi and Fennel to treat swelling. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Bronchitis",
+        "herbs": [
+          "Fenugreek",
+          "Saffron",
+          "Giloy"
+        ],
+        "remedy": "Use Fenugreek and Saffron and Giloy to treat bronchitis. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Depression",
+        "herbs": [
+          "Pomegranate",
+          "Isabgol"
+        ],
+        "remedy": "Use Pomegranate and Isabgol to treat depression. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Low Immunity",
+        "herbs": [
+          "Arjuna Bark",
+          "Jaggery"
+        ],
+        "remedy": "Use Arjuna Bark and Jaggery to treat low immunity. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Arthritis",
+        "herbs": [
+          "Saffron",
+          "Fennel",
+          "Chili"
+        ],
+        "remedy": "Use Saffron and Fennel and Chili to treat arthritis. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Indigestion",
+        "herbs": [
+          "Aloe Vera",
+          "Cinnamon"
+        ],
+        "remedy": "Use Aloe Vera and Cinnamon to treat indigestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sore Eyes",
+        "herbs": [
+          "Carom Seeds",
+          "Honey"
+        ],
+        "remedy": "Use Carom Seeds and Honey to treat sore eyes. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Memory Loss",
+        "herbs": [
+          "Cardamom",
+          "Turmeric"
+        ],
+        "remedy": "Use Cardamom and Turmeric to treat memory loss. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Eczema",
+        "herbs": [
+          "Coconut Oil",
+          "Clove"
+        ],
+        "remedy": "Use Coconut Oil and Clove to treat eczema. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Bloating",
+        "herbs": [
+          "Lemon Juice",
+          "Ashwagandha"
+        ],
+        "remedy": "Use Lemon Juice and Ashwagandha to treat bloating. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Depression",
+        "herbs": [
+          "Fenugreek",
+          "Carom Seeds",
+          "Ginger"
+        ],
+        "remedy": "Use Fenugreek and Carom Seeds and Ginger to treat depression. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Acidity",
+        "herbs": [
+          "Jamun Seed",
+          "Carom Seeds"
+        ],
+        "remedy": "Use Jamun Seed and Carom Seeds to treat acidity. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Chronic Cold",
+        "herbs": [
+          "Honey",
+          "Carom Seeds",
+          "Basil"
+        ],
+        "remedy": "Use Honey and Carom Seeds and Basil to treat chronic cold. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sinusitis",
+        "herbs": [
+          "Pomegranate",
+          "Aloe Vera",
+          "Lemon Juice"
+        ],
+        "remedy": "Use Pomegranate and Aloe Vera and Lemon Juice to treat sinusitis. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sinusitis",
+        "herbs": [
+          "Pomegranate",
+          "Hibiscus"
+        ],
+        "remedy": "Use Pomegranate and Hibiscus to treat sinusitis. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Chronic Cold",
+        "herbs": [
+          "Cinnamon",
+          "Cardamom"
+        ],
+        "remedy": "Use Cinnamon and Cardamom to treat chronic cold. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Low Immunity",
+        "herbs": [
+          "Tulsi",
+          "Lemon Grass",
+          "Ashwagandha"
+        ],
+        "remedy": "Use Tulsi and Lemon Grass and Ashwagandha to treat low immunity. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Indigestion",
+        "herbs": [
+          "Cinnamon",
+          "Tulsi",
+          "Lemon Balm"
+        ],
+        "remedy": "Use Cinnamon and Tulsi and Lemon Balm to treat indigestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stomach Pain",
+        "herbs": [
+          "Beetroot",
+          "Bitter Gourd"
+        ],
+        "remedy": "Use Beetroot and Bitter Gourd to treat stomach pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Indigestion",
+        "herbs": [
+          "Cardamom",
+          "Arjuna Bark",
+          "Lemon Grass"
+        ],
+        "remedy": "Use Cardamom and Arjuna Bark and Lemon Grass to treat indigestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Fever",
+        "herbs": [
+          "Neem",
+          "Night Jasmine",
+          "Coconut Oil"
+        ],
+        "remedy": "Use Neem and Night Jasmine and Coconut Oil to treat fever. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Indigestion",
+        "herbs": [
+          "Lemon Grass",
+          "Tulsi"
+        ],
+        "remedy": "Use Lemon Grass and Tulsi to treat indigestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Anxiety",
+        "herbs": [
+          "Saffron",
+          "Arjuna Bark",
+          "Fenugreek"
+        ],
+        "remedy": "Use Saffron and Arjuna Bark and Fenugreek to treat anxiety. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Digestion",
+        "herbs": [
+          "Giloy",
+          "Ginger"
+        ],
+        "remedy": "Use Giloy and Ginger to treat digestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stomach Pain",
+        "herbs": [
+          "Jaggery",
+          "Aloe Vera"
+        ],
+        "remedy": "Use Jaggery and Aloe Vera to treat stomach pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Kidney Stones",
+        "herbs": [
+          "Dandelion",
+          "Brahmi",
+          "Peppermint"
+        ],
+        "remedy": "Use Dandelion and Brahmi and Peppermint to treat kidney stones. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Toothache",
+        "herbs": [
+          "Isabgol",
+          "Basil"
+        ],
+        "remedy": "Use Isabgol and Basil to treat toothache. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Toothache",
+        "herbs": [
+          "Pomegranate",
+          "Arjuna Bark"
+        ],
+        "remedy": "Use Pomegranate and Arjuna Bark to treat toothache. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sore Feet",
+        "herbs": [
+          "Bitter Gourd",
+          "Giloy",
+          "Honey"
+        ],
+        "remedy": "Use Bitter Gourd and Giloy and Honey to treat sore feet. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Headache",
+        "herbs": [
+          "Chicory",
+          "Amla",
+          "Bhringraj"
+        ],
+        "remedy": "Use Chicory and Amla and Bhringraj to treat headache. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Fatty Liver",
+        "herbs": [
+          "Hing",
+          "Bitter Gourd",
+          "Dandelion"
+        ],
+        "remedy": "Use Hing and Bitter Gourd and Dandelion to treat fatty liver. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Toothache",
+        "herbs": [
+          "Curry Leaves",
+          "Sesame Seeds"
+        ],
+        "remedy": "Use Curry Leaves and Sesame Seeds to treat toothache. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stress",
+        "herbs": [
+          "Jamun Seed",
+          "Amla"
+        ],
+        "remedy": "Use Jamun Seed and Amla to treat stress. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Fatigue",
+        "herbs": [
+          "Chili",
+          "Ajwain"
+        ],
+        "remedy": "Use Chili and Ajwain to treat fatigue. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Nausea",
+        "herbs": [
+          "Curry Leaves",
+          "Cardamom",
+          "Cinnamon"
+        ],
+        "remedy": "Use Curry Leaves and Cardamom and Cinnamon to treat nausea. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Hair Fall",
+        "herbs": [
+          "Giloy",
+          "Pomegranate"
+        ],
+        "remedy": "Use Giloy and Pomegranate to treat hair fall. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Swelling",
+        "herbs": [
+          "Moringa",
+          "Chili",
+          "Ajwain"
+        ],
+        "remedy": "Use Moringa and Chili and Ajwain to treat swelling. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Wounds",
+        "herbs": [
+          "Giloy",
+          "Chicory",
+          "Lemon Juice"
+        ],
+        "remedy": "Use Giloy and Chicory and Lemon Juice to treat wounds. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Hair Fall",
+        "herbs": [
+          "Dandelion",
+          "Neem",
+          "Brahmi"
+        ],
+        "remedy": "Use Dandelion and Neem and Brahmi to treat hair fall. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Indigestion",
+        "herbs": [
+          "Hing",
+          "Moringa"
+        ],
+        "remedy": "Use Hing and Moringa to treat indigestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Chronic Cold",
+        "herbs": [
+          "Hibiscus",
+          "Sesame Seeds"
+        ],
+        "remedy": "Use Hibiscus and Sesame Seeds to treat chronic cold. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Swelling",
+        "herbs": [
+          "Curry Leaves",
+          "Brahmi"
+        ],
+        "remedy": "Use Curry Leaves and Brahmi to treat swelling. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Joint Pain",
+        "herbs": [
+          "Lemon Juice",
+          "Beetroot"
+        ],
+        "remedy": "Use Lemon Juice and Beetroot to treat joint pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stomach Pain",
+        "herbs": [
+          "Clove",
+          "Isabgol",
+          "Peppermint"
+        ],
+        "remedy": "Use Clove and Isabgol and Peppermint to treat stomach pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Low Immunity",
+        "herbs": [
+          "Carom Seeds",
+          "Brahmi",
+          "Fenugreek"
+        ],
+        "remedy": "Use Carom Seeds and Brahmi and Fenugreek to treat low immunity. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Rashes",
+        "herbs": [
+          "Neem",
+          "Moringa"
+        ],
+        "remedy": "Use Neem and Moringa to treat rashes. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stress",
+        "herbs": [
+          "Giloy",
+          "Tulsi"
+        ],
+        "remedy": "Use Giloy and Tulsi to treat stress. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Acidity",
+        "herbs": [
+          "Cardamom",
+          "Peppermint"
+        ],
+        "remedy": "Use Cardamom and Peppermint to treat acidity. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Bronchitis",
+        "herbs": [
+          "Bitter Gourd",
+          "Hibiscus"
+        ],
+        "remedy": "Use Bitter Gourd and Hibiscus to treat bronchitis. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Chest Pain",
+        "herbs": [
+          "Arjuna Bark",
+          "Curry Leaves",
+          "Hing"
+        ],
+        "remedy": "Use Arjuna Bark and Curry Leaves and Hing to treat chest pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Anxiety",
+        "herbs": [
+          "Brahmi",
+          "Honey"
+        ],
+        "remedy": "Use Brahmi and Honey to treat anxiety. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Indigestion",
+        "herbs": [
+          "Chili",
+          "Mulethi",
+          "Dandelion"
+        ],
+        "remedy": "Use Chili and Mulethi and Dandelion to treat indigestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "PMS",
+        "herbs": [
+          "Ashwagandha",
+          "Lemon Grass"
+        ],
+        "remedy": "Use Ashwagandha and Lemon Grass to treat pms. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sinusitis",
+        "herbs": [
+          "Coconut Oil",
+          "Neem",
+          "Mulethi"
+        ],
+        "remedy": "Use Coconut Oil and Neem and Mulethi to treat sinusitis. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stress",
+        "herbs": [
+          "Hibiscus",
+          "Ashwagandha",
+          "Mulethi"
+        ],
+        "remedy": "Use Hibiscus and Ashwagandha and Mulethi to treat stress. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Obesity",
+        "herbs": [
+          "Jaggery",
+          "Honey"
+        ],
+        "remedy": "Use Jaggery and Honey to treat obesity. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Stomach Pain",
+        "herbs": [
+          "Honey",
+          "Curry Leaves",
+          "Pomegranate"
+        ],
+        "remedy": "Use Honey and Curry Leaves and Pomegranate to treat stomach pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Menstrual Pain",
+        "herbs": [
+          "Coriander",
+          "Ginger",
+          "Turmeric"
+        ],
+        "remedy": "Use Coriander and Ginger and Turmeric to treat menstrual pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Chronic Cold",
+        "herbs": [
+          "Ashwagandha",
+          "Brahmi"
+        ],
+        "remedy": "Use Ashwagandha and Brahmi to treat chronic cold. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Hair Fall",
+        "herbs": [
+          "Ajwain",
+          "Carom Seeds",
+          "Bitter Gourd"
+        ],
+        "remedy": "Use Ajwain and Carom Seeds and Bitter Gourd to treat hair fall. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Bleeding Gums",
+        "herbs": [
+          "Hibiscus",
+          "Bitter Gourd"
+        ],
+        "remedy": "Use Hibiscus and Bitter Gourd to treat bleeding gums. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Hair Fall",
+        "herbs": [
+          "Clove",
+          "Rosemary"
+        ],
+        "remedy": "Use Clove and Rosemary to treat hair fall. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Fatty Liver",
+        "herbs": [
+          "Turmeric",
+          "Basil"
+        ],
+        "remedy": "Use Turmeric and Basil to treat fatty liver. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Bleeding Gums",
+        "herbs": [
+          "Coconut Oil",
+          "Tulsi",
+          "Sesame Seeds"
+        ],
+        "remedy": "Use Coconut Oil and Tulsi and Sesame Seeds to treat bleeding gums. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Joint Pain",
+        "herbs": [
+          "Cardamom",
+          "Lemon Balm",
+          "Pomegranate"
+        ],
+        "remedy": "Use Cardamom and Lemon Balm and Pomegranate to treat joint pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Sciatica",
+        "herbs": [
+          "Coriander",
+          "Chicory",
+          "Night Jasmine"
+        ],
+        "remedy": "Use Coriander and Chicory and Night Jasmine to treat sciatica. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Rashes",
+        "herbs": [
+          "Coriander",
+          "Fennel",
+          "Tulsi"
+        ],
+        "remedy": "Use Coriander and Fennel and Tulsi to treat rashes. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Fatigue",
+        "herbs": [
+          "Basil",
+          "Coriander",
+          "Night Jasmine"
+        ],
+        "remedy": "Use Basil and Coriander and Night Jasmine to treat fatigue. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Indigestion",
+        "herbs": [
+          "Ginger",
+          "Hing"
+        ],
+        "remedy": "Use Ginger and Hing to treat indigestion. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Mouth Ulcers",
+        "herbs": [
+          "Rosemary",
+          "Cardamom"
+        ],
+        "remedy": "Use Rosemary and Cardamom to treat mouth ulcers. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Joint Pain",
+        "herbs": [
+          "Moringa",
+          "Hing",
+          "Honey"
+        ],
+        "remedy": "Use Moringa and Hing and Honey to treat joint pain. Prepare as a mixture, powder, or decoction and use twice a day."
+      },
+      {
+        "condition": "Gas & Bloating",
+        "herbs": [
+          "Ajwain",
+          "Tulsi",
+          "Pomegranate"
+        ],
+        "remedy": "Use Ajwain and Tulsi and Pomegranate to treat gas & bloating. Prepare as a mixture, powder, or decoction and use twice a day."
+      }
+    ]
+  }    
+      
